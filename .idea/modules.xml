@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-basic-maths/Armstrong num/Armstrong num.iml" filepath="$PROJECT_DIR$/01-basic-maths/Armstrong num/Armstrong num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-basic-maths/Digit Concept/Digit Concept.iml" filepath="$PROJECT_DIR$/01-basic-maths/Digit Concept/Digit Concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kunal-Recursion/Kunal-Recursion.iml" filepath="$PROJECT_DIR$/Kunal-Recursion/Kunal-Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-basic-maths/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/01-basic-maths/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-basic-maths/Prime num/Prime num.iml" filepath="$PROJECT_DIR$/01-basic-maths/Prime num/Prime num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-basic-maths/Reverse num/Reverse num.iml" filepath="$PROJECT_DIR$/01-basic-maths/Reverse num/Reverse num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-basic-maths/Square Root/Square Root.iml" filepath="$PROJECT_DIR$/01-basic-maths/Square Root/Square Root.iml" />
+    </modules>
+  </component>
+</project>
